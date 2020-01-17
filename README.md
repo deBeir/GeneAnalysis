@@ -24,9 +24,9 @@ The classes developed in ``` OV90.py ``` where created in order to retrieve gene
 - ``` SearchP ```: searches for protein information in protein related databases.
 - ``` ProteinBlast ```: performs a _blastp_ program given a protein query.
 
-To test them, a test script ``` Test.py ``` was created. So far, not all classes are used. As an example, the gene STX4 was used to test out the program. 
+To test them, a test script ``` Test.py ``` was created. So far, not all classes are implemented within ```Test.py```. As an example, the gene __STX4__ was used to test out the program. 
 
 ## Contact
 
-Sofia de Beir - pg38263@alunos.uminho.pt
-Project Link - https://github.com/deBeir/LABS_grupo3
+- Sofia de Beir - pg38263@alunos.uminho.pt
+- Project Link - https://github.com/deBeir/LABS_grupo3
