@@ -34,7 +34,6 @@ class Search:
                 print('ABSTRACT:', record['AB'])
 
 class RetrieveInfo:
-
     def __init__(self, name, term, start, stop):
         self.name = name
         self.term = str(term)
