@@ -1,6 +1,8 @@
 import OV90
 
 # gene STX4 used as an example
+# missing tests for classes Align, Clustal and Phylo
+
 
 def test_RetrieveInfo():
 
