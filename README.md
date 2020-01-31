@@ -2,7 +2,7 @@
 [MEBIOINF 2019/2020]
 
 ## About the project
-This project developed in order to analyze certain genes using several Biopython modules. This main objective is to automatize the whole process of gathering information about genes and proteins and analyze it. 
+This project was developed in order to analyze certain genes using several Biopython modules. The main objective is to automatize the whole process of gathering information about genes and proteins and analyze it. 
 
 ## Prerequisites
 
