@@ -29,4 +29,3 @@ To test them, a test script ``` Test.py ``` was created. So far, not all classes
 ## Contact
 
 - Sofia de Beir - pg38263@alunos.uminho.pt
-- Project Link - https://github.com/deBeir/GeneAnalysis
